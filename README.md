@@ -29,5 +29,5 @@ Our team name was "Ada Lovelace".  We placed in the top 7 finalists and presente
 
 - [Problem Statement](./Lovelace%20Problem%20Statement.pdf)
 - [Light Gradient Boosting Model (LGBM)](./master/map_my_risk_codes.ipynb)
-- [Full Presentation](./master/Map%20My%20Risk.pptx)
-- [Live Presentation and Judging of 7 Finalist Teams ](https://www.youtube.com/watch?v=8IVsd6r0FGc)
+- [Full Presentation Slides](./master/Map%20My%20Risk.pptx)
+- [Live Presentation and Judging of 7 Finalist Teams ](https://www.youtube.com/watch?v=8IVsd6r0FGc) (Jump to timestamp 1:16:20 for Team Ada Lovelace)

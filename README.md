@@ -1,5 +1,5 @@
 # Mission: Predictable - Map My Risk App
-"Mission: Predictable" was a virtual Machine Learning hackathon (WWCode Data Science)
+"Mission: Predictable" was a virtual Machine Learning Hackathon (WWCode Data Science)
 
 The mission of this hackathon was to solve social challenges related to COVID-19 using machine learning and Amazon SageMaker.
 
@@ -17,9 +17,9 @@ Our team name was "Ada Lovelace".  We placed in the top 7 finalists and presente
   <p align="center">
     The Map My Risk App improves social distancing
     <br />
-    by providing current and forecasted COVID-19 transmission rates of geographical areas, 
+    by providing current and forecasted COVID-19 transmission rates of geographical areas 
     <br />
-    so the user may plan activities to avoid high risk areas, thereby slowing the spread of the virus.
+    to help the user avoid high risk areas and to ultimately slow the spread of the virus.
     <br />
   </p>
   
@@ -28,6 +28,6 @@ Our team name was "Ada Lovelace".  We placed in the top 7 finalists and presente
 ## Table of Contents
 
 - [Problem Statement](./Lovelace%20Problem%20Statement.pdf)
-- [Light Gradient Boosting Model (LGBM)](./master/map_my_risk_codes.ipynb)
-- [Full Presentation Slides](./master/Map%20My%20Risk.pptx)
+- [Light Gradient Boosting Model (LGBM)](./map_my_risk_codes.ipynb)
+- [Full Presentation Slides](./Map%20My%20Risk.pptx)
 - [Live Presentation and Judging of 7 Finalist Teams ](https://www.youtube.com/watch?v=8IVsd6r0FGc) (Jump to timestamp 1:16:20 for Team Ada Lovelace)

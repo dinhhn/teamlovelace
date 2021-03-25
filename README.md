@@ -1,5 +1,5 @@
 # Mission: Predictable - Map My Risk App
-"Mission: Predictable" was a virtual Machine Learning Hackathon (WWCode Data Science)
+"Mission: Predictable" was an international virtual Machine Learning Hackathon (WWCode Data Science)
 
 The mission of this hackathon was to solve social challenges related to COVID-19 using machine learning and Amazon SageMaker.
 
